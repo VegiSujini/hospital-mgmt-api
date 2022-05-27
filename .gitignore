@@ -23,7 +23,7 @@ application.properties
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
-/dist/
+# /dist/
 /nbdist/
 /.nb-gradle/
 build/
